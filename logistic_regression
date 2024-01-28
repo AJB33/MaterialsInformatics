@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+import statsmodels.formula.api as smf
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+from cycler import cycler
+
+plt.style.use("ggplot")
+palette = ["#00B0F6","#F8766D","#00BF7D","#A3A500","E76BF3"]
+plt.rc('axes',prop_cycle=(cycler('color', palette)))

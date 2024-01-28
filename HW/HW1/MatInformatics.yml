@@ -169,7 +169,6 @@ dependencies:
       - dnspython==2.5.0
       - fair-research-login==0.3.1
       - flatbuffers==23.5.26
-      - foundry-ml==0.7.4
       - future==0.18.3
       - gast==0.5.4
       - globus-nexus-client==0.4.1
@@ -252,4 +251,4 @@ dependencies:
       - wordcloud==1.9.3
       - wrapt==1.14.1
       - ydata-profiling==4.6.4
-prefix: C:\Users\taylo\miniconda3\envs\MatInformatics
+prefix: C:\miniconda3\envs\MatInformatics
